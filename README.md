@@ -14,19 +14,19 @@
 下面是一些训练集的例子。
 
 ```text
-一对丹顶鹤正监视着它们的筑巢领地
-一对乌鸦飞到我们屋顶上的巢里，它们好像专门为拉木而来的。
-一对乖乖仔开着老爸的车子。
-一对九？一对九你就全下注了？
-一对二总不是好事，
-```
-
-```text
 A pair of red - crowned cranes have staked out their nesting territory
 A pair of crows had come to nest on our roof as if they had come for Lhamo.
 A couple of boys driving around in daddy's car.
 A pair of nines? You pushed in with a pair of nines?
 Fighting two against one is never ideal,
+```
+
+```text
+一对丹顶鹤正监视着它们的筑巢领地
+一对乌鸦飞到我们屋顶上的巢里，它们好像专门为拉木而来的。
+一对乖乖仔开着老爸的车子。
+一对九？一对九你就全下注了？
+一对二总不是好事，
 ```
 
 ## 使用
