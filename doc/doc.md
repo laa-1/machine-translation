@@ -192,3 +192,9 @@ Teacher Forcing 原理就是把截取 tgt 序列一部分当作是已经翻译�
 ## 最后
 
 至此，关于本项目对 Transformers 模型的应用原理介绍就到此为止了。更多的训练细节和模型结构可以在代码及注释中找到，后续有机会使用 PyTorch 提供的层来重新构建 Transformers 模型，进一步细化地分析 Encoder 和 Decoder 的数据流动过程。
+
+<img src="encoder.png" width="500px">
+
+<img src="decoder.png" width="500px">
+
+<img src="翻译模型.png" width="500px">
