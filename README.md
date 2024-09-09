@@ -1,6 +1,6 @@
 # MachineTranslation 
 
-本项目是一个基于 PyTorch 框架构建 Transformers 模型并应用于翻译任务的项目，其中附带了详细的文档介绍 Transformers 模型在训练和推理中数据是如何变化的，你可以在[这里](doc/README.md)找到它。
+本项目是一个基于 PyTorch 框架构建 Transformers 模型并应用于翻译任务的项目，其中附带了详细的文档介绍 Transformers 模型在训练和推理中数据是如何变化的，你可以在[这里](doc/doc.md)找到它。
 
 ## 环境
 
